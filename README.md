@@ -9,6 +9,9 @@ https://reactnative.dev/docs/environment-setup
 * Node.js
 * npm install -g expo-cli
 
+### Version
+* Node.js version <= 16.13.0
+
 ### Rakenduse jooksmiseks:
 * Terminalis "npm start"
 * Terminalis näeb edasi juhendusi
