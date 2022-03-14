@@ -1,6 +1,6 @@
-# 3
+# 3. harjutus
 ### Raskused: 
-* Rakenduse otsustamine
+* Mis rakenduse teeme otsustamine
 
 ### Kerge:
 * Tänu libraryle oli lehtede navigeerimise ülesseadmine pigem kerge
